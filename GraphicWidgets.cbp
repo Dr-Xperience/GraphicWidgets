@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Button" />
+		<Option title="GraphicWidgets" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Button" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/GraphicWidgets" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="$(#glut)/bin" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
@@ -18,7 +18,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Button" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/GraphicWidgets" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="$(#glut)/bin" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
